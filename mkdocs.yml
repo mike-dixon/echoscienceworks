@@ -1,0 +1,29 @@
+site_name: Echo Science Works LLC
+site_description: Advancing Radar Science & Applied AI
+site_url: https://www.echoscienceworks.com/
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Services: services.md
+  - Projects: projects.md
+  - Software: software.md
+  - Publications: publications.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+
+extra:
+  generator: false
+  copyright: "© 2026 Echo Science Works LLC"
+
