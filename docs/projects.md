@@ -2,17 +2,16 @@
 
 ## Open Source
 
-### LROSE / TITAN
+### LROSE/TITAN
 
-- Repository: https://github.com/ncar/lrose-core
-- Focus areas: *(dual-polization, modernization, open data format)*
+- [Documentation](https://github.com/ncar/lrose-docs)
+- [Core](https://github.com/ncar/lrose-core)
+- [Build](https://github.com/ncar/lrose-bootstrap)
 
-## Internal / Client Deliverables
+### UAE Rainfall Enhancement Program (REP)
 
-*(If you plan to keep some private, describe generally without exposing details.)*
+Echo Science Works is an awardee of the UAE Rainfall Enhancment Program.
 
-## Tooling & Practices
+- [UAE-REP](https://www.uaerep.ae/)
+- [6th cycle award](https://www.uaerep.ae/research-projects/author/profile?pID=385&locale=en)
 
-- Version control: Git/GitHub
-- CI: *(GitHub Actions, etc.)*
-- Packaging: *(conda-forge, Homebrew, Linux packages)*
