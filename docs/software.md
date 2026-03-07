@@ -1,11 +1,10 @@
 # Software
 
-## Open Source
+## LROSE/TITAN development and maintenance
 
-### LROSE / TITAN
-
-- Repository: https://github.com/ncar/lrose-core
-- Focus areas: *(dual-polization, modernization, open data format)*
+- [Documentation](https://github.com/ncar/lrose-docs)
+- [Core](https://github.com/ncar/lrose-core)
+- [Build](https://github.com/ncar/lrose-bootstrap)
 
 ## Tooling & Practices
 

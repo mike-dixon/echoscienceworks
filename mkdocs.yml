@@ -12,9 +12,9 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Services: services.md
   - Projects: projects.md
   - Software: software.md
+  - Services: services.md
   - Publications: publications.md
   - Contact: contact.md
 
