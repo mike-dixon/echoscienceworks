@@ -8,7 +8,7 @@ NOTE: site under construction
 
 ## About
 
-Echo Science Works LLC is a scientific consulting firm focused on radar meteorology, dual-polarization radar analysis, cloud seeding evaluation, and advanced scientific software systems.
+Echo Science Works LLC is a scientific consulting firm focused on radar meteorology, advanced scientific software systems, dual-polarization radar analysis, and cloud seeding evaluation using software and AI.
 
 ## Current Work
 
