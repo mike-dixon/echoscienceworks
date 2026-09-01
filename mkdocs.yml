@@ -12,7 +12,9 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Projects: projects.md
+  - Projects:
+    - Overview: projects.md
+    - UAE Rain Enhancement Project: uaerep.md
   - Software: software.md
   - Services: services.md
   - Publications: publications.md
