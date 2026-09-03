@@ -38,14 +38,15 @@
 
 * Wilson, J. W., N. A. Crook, C. K. Mueller, J. Sun, and M. Dixon, 1998: Nowcasting thunderstorms: A status report. *Bulletin of the American Meteorological Society*, **79**, 2079–2100. doi:10.1175/1520-0477(1998)079<2079:NTASR>2.0.CO;2.
 
+## Reports / Technical Notes
+
+* WMO Guide to Operational Weather Radar Best Practices. Volume IV: Weather Radar Siting, Configuration and Scan Strategies. [WMO-No 1257](https://library.wmo.int/records/item/68981-guide-to-operational-weather-radar-best-practices)
+
 <!--
 
 ## Selected Presentations
 
 - Title, Event, Location, Date. *(link or slides)*
 
-## Reports / Technical Notes
-
-- Title, Client/Project, Date. *(link if public)*
-
 -->
+
