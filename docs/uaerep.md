@@ -45,6 +45,8 @@ The legacy LROSE Rview and TimeHist displays were developed to support these act
   <img src="/images/uaerep/titan-rview-timehist.png"
        alt="TITAN Rview and TimeHist displays"
        style="width: 80%;">
+  <br>
+  <em>Figure 1. Example of the legacy TITAN Rview and TimeHist displays.</em>
 </p>
 
 *Figure 1. Example of the legacy TITAN Rview and TimeHist displays.*
