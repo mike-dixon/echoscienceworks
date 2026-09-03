@@ -6,6 +6,10 @@
 
 * Dixon, M., and U. Romatschke, 2022: Three-dimensional convective–stratiform echo-type classification and convectivity retrieval from radar reflectivity. *Journal of Atmospheric and Oceanic Technology*, **39**, 1685–1704. doi:10.1175/JTECH-D-22-0018.1.
 
+* Dixon, M. J., and G. K. Mather, 1986: *Programme for Atmospheric Water Supply—Phase 1, 1983–1986*, Vol. 3. Water Research Commission Report 133/3/88, 55 pp.
+
+* Mather, G. K., M. J. Dixon, and J. M. de Jager, 1996: Assessing the potential for rain augmentation—The Nelspruit randomized convective cloud seeding experiment. *Journal of Applied Meteorology*, **35**, 1465–1482. doi:10.1175/1520-0450(1996)035<1465:ATPFRA>2.0.CO;2.
+
 * Romatschke, U., and M. J. Dixon, 2022: Vertically resolved convective–stratiform echo-type identification and convectivity retrieval for vertically pointing radars. *Journal of Atmospheric and Oceanic Technology*, **39**, 1705–1716. doi:10.1175/JTECH-D-22-0019.1.
 
 * Romatschke, U., M. Dixon, C. Burghart, A. Karboski, J. Emmett, J. Sobtzak, E. Loew, G. Faria, A. Monaghan, D. Rowland, B. Crane, and K. Gelatt, 2025: Economical and effective upgrades to an airborne cloud radar with a dual pulsing scheme. *IEEE Transactions on Geoscience and Remote Sensing*, **63**, 5107309. doi:10.1109/TGRS.2025.3601429.
