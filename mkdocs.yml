@@ -13,7 +13,6 @@ nav:
   - Home: index.md
   - About: about.md
   - Projects:
-    - Overview: projects.md
     - UAE Rain Enhancement Project: uaerep.md
   - Software: software.md
   - Services: services.md
