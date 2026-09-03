@@ -1,6 +1,12 @@
 # Echo Science Works LLC
 
-**Advancing Radar Science & Applied AI**
+<p align="center">
+  <img src="/images/esw_logo.png"
+       alt="Echo Science Works"
+       style="width: 30%; max-width: 300px;">
+  <br>
+  <strong>Advancing Weather Radar Science & Applied AI
+</p>
 
 ## About
 
