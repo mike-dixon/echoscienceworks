@@ -70,6 +70,10 @@ These measurements allow us to examine both the macro-scale structure of a storm
 
 For example, vertical **ZDR and KDP columns** can provide information about liquid water and particle growth within convective updrafts. Combining the radar fields with atmospheric temperature information also allows us to estimate **Particle Identification (PID)**, distinguishing regions dominated by rain, snow, graupel, hail, mixed-phase particles, and other hydrometeors.
 
+![Vertical section through a thunderstorm, showing Particle ID deduced from dual-polarization signatures.](images/uaerep/pid_rhi.png)
+
+*Figure 2. How dual-polarization radar can help to deduce the microphysical composition of a convective storm.
+
 Dual polarization also improves radar-based **Quantitative Precipitation Estimation (QPE)**.
 
 By incorporating these observations into TITAN, we can considerably expand the set of properties associated with each tracked storm. Examples include:
