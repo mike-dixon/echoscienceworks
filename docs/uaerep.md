@@ -44,24 +44,22 @@ The legacy LROSE Rview and TimeHist displays were developed to support these act
 <p align="center">
   <img src="/images/uaerep/titan-rview-timehist.png"
        alt="TITAN Rview and TimeHist displays"
-       style="width: 80%;">
+       style="width: 75%;">
   <br>
-  <em>Figure 1. Example of the legacy TITAN Rview and TimeHist displays.</em>
+  <em>Example of the legacy TITAN Rview and TimeHist displays.</em>
 </p>
-
-*Figure 1. Example of the legacy TITAN Rview and TimeHist displays.*
-
-![Legacy TITAN Rview and TimeHist displays showing storm and aircraft tracks, radar plan view and vertical section, and storm-track time history.](images/uaerep/titan-rview-timehist.png)
-
-*Figure 1. Example of the legacy TITAN Rview and TimeHist displays. A major goal of the project is to replace these older interfaces with modern visualization and decision-support tools.*
 
 Historically, TITAN storm analysis has been based primarily on radar reflectivity and Doppler velocity. These observations allow us to derive geometrically based or **macro-scale emergent properties** such as storm area, volume, estimated mass, precipitation mass, and rotation.
 
 These properties have been used extensively for radar-based evaluation of cloud-seeding experiments. Storm properties can be aligned relative to the seeding decision time and compared statistically between seeded and unseeded cases.
 
-![Radar-based seeding evaluation plots comparing seeded and unseeded storm populations in previous experiments and illustrating potential survival bias.](images/uaerep/seeding-evaluation.png)
-
-*Figure 2. Examples of radar-based cloud-seeding evaluation using TITAN. The plots illustrate results from previous seeding experiments and also demonstrate the importance of accounting carefully for selection and survival biases.*
+<p align="center">
+  <img src="/images/uaerep/seeding-evaluation.png"
+       alt="Seeding evaluation statistics"
+       style="width: 75%;">
+  <br>
+  <em>Examples of radar-based cloud-seeding evaluation using TITAN. The plots illustrate results from previous seeding experiments and also demonstrate the importance of accounting carefully for selection and survival biases.</em>
+</p>
 
 This approach has provided useful information, but reflectivity-based properties describe a storm mainly at the macro scale. The current project aims to move beyond these bulk properties and characterize the storm's evolving **microphysical structure**.
 
@@ -80,9 +78,13 @@ These measurements allow us to examine both the macro-scale structure of a storm
 
 For example, vertical **ZDR and KDP columns** can provide information about liquid water and particle growth within convective updrafts. Combining the radar fields with atmospheric temperature information also allows us to estimate **Particle Identification (PID)**, distinguishing regions dominated by rain, snow, graupel, hail, mixed-phase particles, and other hydrometeors.
 
-![Vertical section through a thunderstorm, showing Particle ID deduced from dual-polarization signatures.](images/uaerep/pid_rhi.png)
-
-*Figure 2. How dual-polarization radar can help to deduce the microphysical composition of a convective storm.
+<p align="center">
+  <img src="/images/uaerep/pid_rhi.png"
+       alt="PID vertical section"
+       style="width: 75%;">
+  <br>
+  <em>How dual-polarization radar can help to deduce the microphysical composition of a convective storm.</em>
+</p>
 
 Dual polarization also improves radar-based **Quantitative Precipitation Estimation (QPE)**.
 
