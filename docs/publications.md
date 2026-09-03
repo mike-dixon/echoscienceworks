@@ -1,7 +1,5 @@
 # Publications & Presentations
 
-## Selected Publications
-
 ## Selected radar publications
 
 * Dixon, M., and G. Wiener, 1993: TITAN: Thunderstorm identification, tracking, analysis, and nowcasting—A radar-based methodology. *Journal of Atmospheric and Oceanic Technology*, **10**, 785–797. doi:10.1175/1520-0426(1993)010<0785:TTITAA>2.0.CO;2.
