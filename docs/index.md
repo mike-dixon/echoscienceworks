@@ -1,6 +1,6 @@
 # Echo Science Works LLC
 
-<p align="center">
+<p align="left">
   <img src="/images/esw_logo.png"
        alt="Echo Science Works"
        style="width: 30%; max-width: 300px;">
