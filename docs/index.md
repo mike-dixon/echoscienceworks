@@ -1,4 +1,4 @@
-# Echo Science Works LLC
+<!-- # Echo Science Works LLC -->
 
 <p align="left">
   <img src="/images/esw_logo.png"
