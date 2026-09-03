@@ -4,6 +4,7 @@ site_url: https://www.echoscienceworks.com/
 
 theme:
   name: material
+  logo: images/esw_logo.svg
   features:
     - navigation.sections
     - navigation.top
