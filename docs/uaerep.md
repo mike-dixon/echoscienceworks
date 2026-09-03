@@ -41,6 +41,14 @@ TITAN (Thunderstorm Identification, Tracking, Analysis and Nowcasting) was origi
 
 The legacy LROSE Rview and TimeHist displays were developed to support these activities. They combine radar observations, storm tracks, aircraft tracks, vertical sections, and time histories of storm properties.
 
+<p align="center">
+  <img src="images/uaerep/titan-rview-timehist.png"
+       alt="TITAN Rview and TimeHist displays"
+       style="width: 80%;">
+</p>
+
+*Figure 1. Example of the legacy TITAN Rview and TimeHist displays.*
+
 ![Legacy TITAN Rview and TimeHist displays showing storm and aircraft tracks, radar plan view and vertical section, and storm-track time history.](images/uaerep/titan-rview-timehist.png)
 
 *Figure 1. Example of the legacy TITAN Rview and TimeHist displays. A major goal of the project is to replace these older interfaces with modern visualization and decision-support tools.*
