@@ -1,7 +1,12 @@
 # Advancing Cloud Seeding Science with Dual-Polarization Radar Signatures and AI
 
-**UAE Research Program for Rain Enhancement Science (UAEREP)**  
-**Project period:** March 2026 – February 2029
+<p align="center">
+  <img src="/images/uaerep/uaerep_logo.png"
+       alt="UAE Research Program for Rain Enhancement Science"
+       style="width: 30%; max-width: 300px;">
+  <br>
+  <strong>Project period:</strong> March 2026 – February 2029
+</p>
 
 ## Project overview
 
