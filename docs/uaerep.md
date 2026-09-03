@@ -83,7 +83,7 @@ For example, vertical **ZDR and KDP columns** can provide information about liqu
        alt="PID vertical section"
        style="width: 75%;">
   <br>
-  <em>How dual-polarization radar can help to deduce the microphysical composition of a convective storm.</em>
+  <em>Particle ID (PID) illustrates how dual-polarization radar can help to deduce the microphysical composition of a convective storm.</em>
 </p>
 
 Dual polarization also improves radar-based **Quantitative Precipitation Estimation (QPE)**.
