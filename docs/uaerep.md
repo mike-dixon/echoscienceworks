@@ -17,7 +17,7 @@ The UAE operates a modern dual-polarization weather radar network and an active 
 
 The project is primarily a scientific software-engineering and research effort. It combines modern dual-polarization radar observations with the open-source **LROSE/TITAN** storm-analysis system, improved statistical methods, and physically constrained artificial intelligence.
 
-The project is led by **Echo Science Works LLC, Colorado** in collaboration with **North-West University (NWU), South Africa** and the **National Center of Meteorology (NCM), United Arab Emirates**.
+The project is led by **Echo Science Works LLC, Colorado** in collaboration with **North-West University (NWU), South Africa**, **Abu Dhabi Polytechnic (ADPOLY), United Arab Emirates**, and the **National Center of Meteorology (NCM), United Arab Emirates**.
 
 ## Sponsor links
 
@@ -205,6 +205,12 @@ Echo Science Works leads the radar-software architecture and development, includ
 **Prof. Roelof Burger – Co-Principal Investigator**
 
 North-West University contributes expertise in cloud-seeding science and evaluation, radar microphysics, statistical methodology, artificial intelligence and machine learning, and capacity building.
+
+### Abu Dhabi Polytechnic (ADPOLY)
+
+**Dr. Murat Elge – Co-Principal Investigator**
+
+Abu Dhabi Polytechnic co-leads UAE capacity building, contributing to the development of credit-bearing LROSE curriculum modules and practical laboratories, radar and microphysics training, and mentored LROSE coding workshops. Its collaboration supports student development and sustainable local expertise in using, maintaining, and extending the software.
 
 ### National Center of Meteorology, UAE
 
